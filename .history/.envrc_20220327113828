@@ -1,0 +1,2 @@
+export SQL_DSN ="root:root@tcp(localhost:3100)/tutorial"
+export PORT= 4000
